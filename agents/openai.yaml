@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行照片手帐海报"
+  short_description: "将照片制作成上方实拍、下方九宫格蜡笔涂鸦的竖版手帐海报，每张只生成一版"
+  default_prompt: "使用 $travel-photo-journal，把我上传的照片做成旅行手帐海报，每张照片只输出一张，不自动生成调整版。"
