@@ -1,4 +1,4 @@
 interface:
-  display_name: "旅行照片手帐海报"
-  short_description: "将照片制作成上方实拍、下方九宫格蜡笔涂鸦的竖版手帐海报，每张只生成一版"
-  default_prompt: "使用 $travel-photo-journal，把我上传的照片做成旅行手帐海报，每张照片只输出一张，不自动生成调整版。"
+  display_name: "旅行照片创意海报"
+  short_description: "将照片转成八种上实拍下创作的竖版海报，按风格名或编号调用，每张只输出一版"
+  default_prompt: "使用 $travel-photo-journal，按我指定的风格处理上传照片；未指定时使用旅行涂鸦手帐，每张只输出一张。"
